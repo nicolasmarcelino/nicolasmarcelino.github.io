@@ -16,7 +16,7 @@ timezone: America/Fortaleza
 
 title: Nicolas Marcelino # the main title
 
-tagline: Bem-vindo ao meu sítio eletrônico. # it will display as the sub-title
+# tagline: # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Nicolas Marcelino
-  email: nicolasmarcelino61@gmail.com # change to your email address
+  email: nicolasmarcelino.cc@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/nicolasmarcelino # change to your github homepage
